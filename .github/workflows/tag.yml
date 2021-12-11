@@ -6,11 +6,10 @@ on:
       - main
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: Klemensas/action-autotag@stable
-      with:
-        GITHUB_TOKEN: "${{ secrets.TOKEN }}"
-        tag_prefix: "v"
+      - id: compute_tag
+        uses: craig-day/compute-tag@v10
+        with:
+          github_token: ${{ secrets.TOKEN }}
