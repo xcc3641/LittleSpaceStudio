@@ -9,7 +9,7 @@
 
 ![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112091522651.jpg)
 
-测试链接：[官网查看](https://imexie.itscoder.com)
+测试链接：[官网查看](https://imxie.itscoder.com)
 
 ---
 
