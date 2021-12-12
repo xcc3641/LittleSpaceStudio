@@ -2,6 +2,6 @@
     "name": "测试",
     "version": "1.0.0",
     "buildCode": 2,
-    "changelog": "## 🎉 v1.0 更新内容\n\n- 新增 xxxx\n- 更新 xxx\n- 修复 xxx\n\n\n测试内容图片：\n\n![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112091522651.jpg)\n\n测试链接：[官网查看](https://imxie.itscoder.com)\n\n---\n\n# 一级标题\n## 二级标题\n### 三级标题\n#### 四级标题",
+    "changelog": "## 🎉 v1.0 更新内容\n\n[官网查看](https://imxie.itscoder.com)\n\n- 新增 xxxx\n- 更新 xxx\n- 修复 xxx\n\n\n测试内容图片：\n\n![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112091522651.jpg)\n\n---\n\n# 一级标题\n## 二级标题\n### 三级标题\n#### 四级标题",
     "homepage": ""
 }
