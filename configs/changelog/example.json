@@ -2,6 +2,6 @@
     "name": "测试",
     "version": "1.0.0",
     "buildCode": 2,
-    "changelog": "# example\n\nA new Flutter project.\n\n## Getting Started\n\nThis project is a starting point for a Flutter application.\n\nA few resources to get you started if this is your first Flutter project:\n\n- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)\n- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)\n\nFor help getting started with Flutter, view our\n[online documentation](https://flutter.dev/docs), which offers tutorials,\nsamples, guidance on mobile development, and a full API reference.",
+    "changelog": "# 发现新版本\n\nv1.0.0\n\n## 更新内容\n\n- 新增 xxxx\n- 更新 xxx\n- 修复 xxx\n\n\n测试内容图片：\n\n![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112091522651.jpg)\n\n测试链接：[官网查看](https://imexie.itscoder.com)",
     "homepage": ""
 }
