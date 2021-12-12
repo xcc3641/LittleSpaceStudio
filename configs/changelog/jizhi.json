@@ -2,5 +2,6 @@
     "name": "几枝",
     "version": "3.5.0",
     "buildCode": 81,
+    "homepage": "https://imxie.itscoder.com/jizhi-page",
     "changelog": "## 🎉 v3.5 更新内容\n\n![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112121620463.png)\n\n- 优化 整体顶部样式\n- 优化 在关于页面中新增分享按钮\n\n[官网查看](https://imxie.itscoder.com/jizhi-page/)"
 }
