@@ -1,7 +1,7 @@
 {
     "name": "几枝",
     "version": "3.6.0",
-    "buildCode": 90,
+    "buildCode": 87,
     "homepage": "https://imxie.itscoder.com/jizhi-page",
     "changelog": "## 🎉 v3.6.0 更新内容\n\n![](https://raw.githubusercontent.com/xcc3641/AddictedPics/master/blog/202112121620463.png)\n\n- 新增 检查更新\n- 新增 切换首页字体\n- 优化 设置页面"
 }
